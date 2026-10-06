@@ -1,0 +1,13 @@
+# Binaries ที่คอมไพล์จาก rustc main.rs
+main
+main.exe
+*.pdb
+
+# Cargo
+target/
+todos.txt
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
